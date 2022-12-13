@@ -147,12 +147,9 @@ body {
 }
 
 #s-two #s-two-img-container {
-  /* background: url(https://cdn.cuberto.com/cb/img/riyadh/main.jpg);
-  background-size: cover;
-  background-position: bottom; */
-  /* background-attachment: fixed; */
   width: 100%;
   height: 100%;
+  overflow: hidden;
 }
 
 #s-two #s-two-img-container img {
